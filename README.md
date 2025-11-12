@@ -22,3 +22,5 @@ self.switch_interval = 0.001
 pip install Pillow pygame
 
 pip install Pillow
+
+Если хотите использовать для своих проектов или видео - просто оставьте ссылку на мой канал http://www.youtube.com/@shortskudoum
